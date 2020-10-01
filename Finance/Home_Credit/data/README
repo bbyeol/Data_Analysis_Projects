@@ -1,0 +1,5 @@
+train.csv - 학습 데이터
+test.csv - 예측해야 할 test 데이터
+loan_before.csv - 각 사람이 이전에 진행했던 대출에 대한 상세 정보
+sample_submission.csv - 예시 제출 파일
+variable explain.xlsx - train.csv, test.csv, loan_before.csv의 각 변수 설명이 담긴 파일
